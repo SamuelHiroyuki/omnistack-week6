@@ -1,7 +1,7 @@
-# Omni-week6-challenge
+# OmniStack Week6 - Challenge
  This project will be separated in theere parts:
 
-✔ 1. Backend based non NodeJs. This backend will be a simple API for create Boxes (folders) and uploading files;
+✔ 1. Backend based on NodeJs. This backend will be a simple API for create Boxes (folders) and uploading files;
 
 ✔ 2. Web site using ReactJs and SocketIO to upload files and automatic resync in real-time.
 
